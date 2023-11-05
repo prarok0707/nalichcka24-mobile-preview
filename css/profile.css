@@ -1792,7 +1792,7 @@ body.no-scroll {
     position: absolute;
     top: 0.044em;
     left: 0.059em;
-    transition: left 0.2s linear, right 0.2s linear;
+    transition: left 0.1s linear, right 0.1s linear;
 }
 
 .subscription__body {
